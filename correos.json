@@ -1,0 +1,33 @@
+[
+    {
+      "name_db": "Mercado_pago_server_1",
+      "owner_email": "juan.perez@mercadopago.com",
+      "classification": "high"
+    },
+    {
+      "nombre_db": "Mercado_pago_clientes_vip_2",
+      "correo": "maria.gomez@mercadopago.com",
+      "categoria": "high"
+    },
+    {
+      "nombre_db": "Mercado_pago_test_1",
+      "correo": "carlos.ruiz@mercadopago.com",
+      "categoria": "low"
+    },
+    {
+        "nombre_db": "Mercado_pago_qa_2",
+        "correo": "juan.perez@mercadopago.com",
+        "categoria": "low"
+      },
+      {
+        "nombre_db": "Mercado_pago_tarjetas",
+        "correo": "maria.gomez@mercadopago.com",
+        "categoria": "high"
+      },
+      {
+        "nombre_db": "Mercado_pago_tarjetas_qa",
+        "correo": "carlos.ruiz@mercadopago.com",
+        "categoria": "low"
+      }
+  ]
+

@@ -1,0 +1,4 @@
+row_id,user_id,user_state,user_manager
+1,juan.perez@mercadopago.com,active,manager1@mercadopago.com
+2,maria.gomez@mercadopago.com,active,manager2@mercadopago.com
+3,carlos.ruiz@mercadopago.com,active,manager3@mercadopago.com
