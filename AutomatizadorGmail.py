@@ -7,8 +7,8 @@ from email.mime.multipart import MIMEMultipart
 
 # Credenciales del correo
 name_account = "AutoProgram"
-email_account = "cuetiacamilo8@gmail.com"
-password_account = "zkasnwzecezovbnl"
+email_account = "..."
+password_account = "..."
 
 # Configuración del servidor SMTP
 server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
@@ -30,12 +30,12 @@ CREATE TABLE IF NOT EXISTS bases_de_datos (
 ''')
 
 # Leer el archivo JSON
-json_path = r'C:\\Users\\Camilo Cuetia\\Downloads\\challegens\\correos.json'
+json_path = r'...'
 with open(json_path, 'r') as file:
     db_classifications = json.load(file)
 
 # Leer el archivo CSV
-csv_path = r'C:\\Users\\Camilo Cuetia\\Downloads\\challegens\\archivo.csv'
+csv_path = r'...'
 usuarios_df = pd.read_csv(csv_path)
 
 # Procesar los datos y guardar en la base de datos
